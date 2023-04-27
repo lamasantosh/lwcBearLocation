@@ -1,0 +1,7 @@
+:host{
+  --margin-around: .5rem;
+}
+ 
+.bp-margin-around{
+    margin: var(--margin-around);
+}
