@@ -1,0 +1,7 @@
+:host{
+    --padding-around: .5rem;
+}
+
+.lc-padding{
+    padding: var(--padding-around);
+}
